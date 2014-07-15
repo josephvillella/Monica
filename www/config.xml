@@ -46,6 +46,7 @@ versionCode = "1">
     <gap:splash src="res/screen/ios/splash768x1024.png" gap:platform="ios" width="768" height="1024" /> <!-- iPad non retina -->
     <gap:splash src="res/screen/ios/splash2048x1496.png" gap:platform="ios" width="2048" height="1496" /> <!-- iPad retina -->
     <gap:splash src="res/screen/ios/splash1536x2008.png" gap:platform="ios" width="1536" height="2008" /> <!-- iPad retina -->
+	<gap:splash gap:platform="ios" height="1136" src="res/screen/ios/screen-iphone-portrait-568h-2x.png" width="640" /
         
     <gap:splash src="img/splash/android/ldpi.png" gap:platform="android" gap:density="ldpi" /> <!-- 200x320 -->
     <gap:splash src="img/splash/android/mdpi.png" gap:platform="android" gap:density="mdpi" /> <!-- 320x480 -->
